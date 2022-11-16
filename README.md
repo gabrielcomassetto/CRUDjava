@@ -1,4 +1,13 @@
-# CRUDjava
-CRUD feito em Java e MySql
-A partir do arquivo Main pode ser executado o menu principal, que realizar todas as funções.
-A ideia desse CRUD é de uma conta bancária de um usário.
+# Conta bancária  
+
+Código feito em java com banco de dados mysql.
+
+Algumas funcionalidades do código
+
+ - Criação de uma tabela no banco de dados;
+ - Cadastro de um novo cliente;
+ - Listagem dos dados da conta;
+ - Deletar determinado cliente;
+ - Atualizar dados do cliente.
+  
+  
